@@ -1,0 +1,8 @@
+coverage/
+dist/
+node_modules/
+yarn-error.log
+
+aggregated*.json
+dump*.json
+snapshot*.json

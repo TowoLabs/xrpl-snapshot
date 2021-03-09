@@ -33,7 +33,7 @@
     "mongodb": "^3.6.3",
     "ripple-lib": "^1.9.0",
     "winston": "^3.3.3",
-    "yargs": "^15.4.1"
+    "yargs": "^16.2.0"
   },
   "husky": {
     "hooks": {

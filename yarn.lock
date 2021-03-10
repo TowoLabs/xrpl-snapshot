@@ -4062,10 +4062,10 @@ ripple-binary-codec@^1.1.0:
     decimal.js "^10.2.0"
     ripple-address-codec "^4.1.1"
 
-ripple-keypairs@^1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/ripple-keypairs/-/ripple-keypairs-1.0.2.tgz#91c724210734e704e35053925a80bf1cd8104c92"
-  integrity sha512-3l2cUhUO4VEK42NfHtn7WA1NEO+vGU7p7/36QhCIvYFf8+lNdNrY0PrriJ3Mef/TG8hQvO8coCVEO5fpOKSAag==
+ripple-keypairs@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/ripple-keypairs/-/ripple-keypairs-1.0.3.tgz#346f15fa25e020e0afaa7f6e31fe398e119344b2"
+  integrity sha512-Na5q8sUdxjd5DXBM88ocJgL2Ig0I1USyO3bvI0SMxJPp7F9DHvqLdPX45PVXs7HUq0Dj691Z9Uz9NeD/K7/eOA==
   dependencies:
     bn.js "^5.1.1"
     brorand "^1.0.5"
@@ -4081,10 +4081,10 @@ ripple-lib-transactionparser@0.8.2:
     bignumber.js "^9.0.0"
     lodash "^4.17.15"
 
-ripple-lib@^1.9.0:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/ripple-lib/-/ripple-lib-1.9.0.tgz#6bc771ec388b2be9023ad8ecf31594bc2d8ab582"
-  integrity sha512-kD/cUe+xuo+F0SCOE5S0YNV4Mlhv9s9JulOlQlpQ6d55Y/b7mr0ic7MJTaQlgqld1oUbLBP19igjKnjo89BmIg==
+ripple-lib@^1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/ripple-lib/-/ripple-lib-1.9.1.tgz#0a08c346976336af711bb7b54d8428e8774eb40a"
+  integrity sha512-oXaPXidzrjS9dqPKxjqILA40FgWHQaO9sr5mm4Btv3xH/iVyfxJkzxNCTf3f6nfRZyWcRjmMikNZzr3CA5wAjg==
   dependencies:
     "@types/lodash" "^4.14.136"
     "@types/ws" "^7.2.0"
@@ -4095,7 +4095,7 @@ ripple-lib@^1.9.0:
     lodash.isequal "^4.5.0"
     ripple-address-codec "^4.1.1"
     ripple-binary-codec "^1.1.0"
-    ripple-keypairs "^1.0.0"
+    ripple-keypairs "^1.0.3"
     ripple-lib-transactionparser "0.8.2"
     ws "^7.2.0"
 

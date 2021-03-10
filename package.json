@@ -24,7 +24,7 @@
     "jest": "^26.6.3",
     "lint-staged": "^10.5.3",
     "ts-jest": "^26.4.4",
-    "typescript": "^3.9.7"
+    "typescript": "^4.2.3"
   },
   "dependencies": {
     "bignumber.js": "^9.0.1",

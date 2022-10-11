@@ -1,7 +1,7 @@
 {
   "name": "xrpl-snapshot",
   "version": "1.0.0",
-  "author": "Towo Labs AB <copyright@towo.io> (https://www.towo.io)",
+  "author": "Towo Labs AB <hello@towolabs.com> (https://towolabs.com)",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
